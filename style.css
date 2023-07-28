@@ -13,3 +13,7 @@
 .clock img {
     width: 20vh;
 }
+
+.clock video {
+    width: 20vh;
+}
